@@ -9,7 +9,7 @@ highest = max(marks)
 lowest = min(marks)
 print("Highest mark:", highest)
 print("Lowest mark:", lowest)
-
+ 
 
 # task 3
 marks = (78, 85, 69, 90, 85)

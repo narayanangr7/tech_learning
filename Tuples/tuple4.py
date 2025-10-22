@@ -21,7 +21,7 @@ print("Total annual rainfall:", total_rainfall)
 monthly_rainfall = (120, 150, 120, 180, 120, 90, 110, 130, 100, 140, 120, 160)
 average_rainfall = total_rainfall / len(monthly_rainfall)
 print("Average monthly rainfall:", average_rainfall, "mm")
-
+ 
 
 # # task 3
 monthly_rainfall = (120, 150, 120, 180, 120, 90, 110, 130, 100, 140, 120, 160)
