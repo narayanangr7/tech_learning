@@ -28,4 +28,9 @@ monthly_rainfall = (120, 150, 120, 180, 120, 90, 110, 130, 100, 140, 120, 160)
 count_120 = monthly_rainfall.count(120)
 print("Number of months with 120 mm rainfall:", count_120)
 
+# task 5
 
+highest = max(monthly_rainfall)
+lowest = min(monthly_rainfall)
+print(highest)
+print(lowest)
